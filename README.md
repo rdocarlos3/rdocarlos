@@ -15,8 +15,8 @@
 
 ## 📂 Repositórios em Destaque
 
-* 🔗 [Sistema Web com React + Node.js](https://github.com/seuusuario/repositorio1)
-* 🔗 [Scripts Python para automações](https://github.com/seuusuario/repositorio2)
+* 🔗 [Sistema Web com React + Node.js]
+* 🔗 [Scripts Python para automações]
 
 ## 📫 Contato
 
